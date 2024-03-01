@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **hand_control**
 
-- 🌱 I’m currently learning **Python,data analysis**
+- 🌱 I’m currently learning **Python,machine learning**
 
 - 📫 How to reach me **Moshe.sh797@gmail.com**
 
